@@ -62,7 +62,16 @@ Dziecko wracając do domu po drodzę może zbierać śmieci a nastepnie posegreg
 
 ## WBS
 ![WBS]
-## Macierz ról i obowiązków w projekcie - Krzysztof
+## Macierz ról i obowiązków w projekcie
+|                  | Określenie kosztów | Pozyskanie Inwestorów | Rozeznanie Rynku | Wysłanie zapytań do firm | Weryfikacjia Ofert | Sporządzenie i zawarcie umowy | Nadzorowanie projektu | Rekrutacja | Opublokowanie ofert pracy | Opublikowanie aplikacji | Przesłanie oferty drogą mailową | Zlecenie stworzenia strony promującej aplikacje | Wykupienie reklam | Wypodukowania produktów promocyjnych | Określenie agendy zajeć informacyjnych | Przeprowadzenie zajęc | Sprzedaż aplikacji | Wykupienie usług księgowych | Obsługa klienta |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Project Owner|R|R|C|C|C|A|R|C|I|R|C|A|C|C|I|C|I|A|
+|Prezes|I|I|R|R|R|R|I|C|A|A|A|R|A|A|A|A|A|R|
+|HR|I|I|I|I|I|I|I|A|R|I|I|I|I|I|I|I|I|I|
+|Marketing|I|I|I|I|I|I|I|C|I|C|R|C|R|R|C|I|C|I|
+|Wdrożeniowcy|I|I|I|I|I|I|I|C|I|I|C|C|I|A|R|R|I|I|
+|Sprzedaż|I|I|I|I|I|I|I|C|I|C|I|C|I|I|I|I|R|C|
+|Customer service|I|I|I|I|I|I|I|C|I|I|I|C|C|I|I|I|I|I|R
 ## Plan komunikacji - Karolina
 * Inwestorzy - konsultacja, informowanie
 * Wykonawca aplikacji - konsultacja, informowanie
@@ -74,6 +83,205 @@ Dziecko wracając do domu po drodzę może zbierać śmieci a nastepnie posegreg
     * Szkoła - konsultacja, informowanie
 ## Mapa interesariuszy - Karolina
 ## Harmonogram projektu - Krzysztof
+<style>
+table tr.text-center td {
+    text-align: center;
+}
+table tr td:first-of-type {
+    text-align: center;
+}
+</style>
+<table>
+    <tr class="text-center">
+        <td colspan=2>Rok</td>
+        <td colspan=14 style="text aling: center;">2020</td>
+    </tr>
+    <tr class="text-center">
+        <td>
+        <td>Kwartał</td>
+        <td colspan=3>1</td>
+        <td colspan=3>2</td>
+        <td colspan=3>3</td>
+        <td colspan=3>4</td>
+    </tr>
+    <tr>
+        <td>Etap nr.</td>
+        <td>Nazwa \ Miesiąc</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+        <td>10</td>
+        <td>11</td>
+        <td>12</td>
+    </tr>
+    <tr >
+        <td>1</td>
+        <td>Zarządzanie projektem</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Pozyskiwanie Inwestorów</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Nadzorowanie projektu</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Nadzorowanie aplikacji</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Rektrutacja</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Promocja</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Sprzedaż</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Agenda zajęć</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Przeprowadzenie zajęć</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Przeprowadzenie zajęć</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+</table>
+
 
 ## Budżet projektu
 ### Co sie składa na budżet
