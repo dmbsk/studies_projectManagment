@@ -83,14 +83,6 @@ Dziecko wracając do domu po drodzę może zbierać śmieci a nastepnie posegreg
     * Szkoła - konsultacja, informowanie
 ## Mapa interesariuszy - Karolina
 ## Harmonogram projektu - Krzysztof
-<style>
-table tr.text-center td {
-    text-align: center;
-}
-table tr td:first-of-type {
-    text-align: center;
-}
-</style>
 <table>
     <tr class="text-center">
         <td colspan=2>Rok</td>
