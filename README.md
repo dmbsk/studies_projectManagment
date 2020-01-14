@@ -1,1 +1,6 @@
-[Project MD](projekt.md)
+# [Project MD](projekt.md)
+
+## TODO
+* Update WBS
+* Update Costs
+* Merge Karolina stuff

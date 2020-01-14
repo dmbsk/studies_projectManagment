@@ -65,12 +65,12 @@ Dziecko wracając do domu po drodzę może zbierać śmieci a nastepnie posegreg
 ## Macierz ról i obowiązków w projekcie
 |                  | Określenie kosztów | Pozyskanie Inwestorów | Rozeznanie Rynku | Wysłanie zapytań do firm | Weryfikacjia Ofert | Sporządzenie i zawarcie umowy | Nadzorowanie projektu | Rekrutacja | Opublokowanie ofert pracy | Opublikowanie aplikacji | Przesłanie oferty drogą mailową | Zlecenie stworzenia strony promującej aplikacje | Wykupienie reklam | Wypodukowania produktów promocyjnych | Określenie agendy zajeć informacyjnych | Przeprowadzenie zajęc | Sprzedaż aplikacji | Wykupienie usług księgowych | Obsługa klienta |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Project Owner|R|R|C|C|C|A|R|C|I|R|C|A|C|C|I|C|I|A|
-|Prezes|I|I|R|R|R|R|I|C|A|A|A|R|A|A|A|A|A|R|
-|HR|I|I|I|I|I|I|I|A|R|I|I|I|I|I|I|I|I|I|
-|Marketing|I|I|I|I|I|I|I|C|I|C|R|C|R|R|C|I|C|I|
-|Wdrożeniowcy|I|I|I|I|I|I|I|C|I|I|C|C|I|A|R|R|I|I|
-|Sprzedaż|I|I|I|I|I|I|I|C|I|C|I|C|I|I|I|I|R|C|
+|Project Owner|R|R|C|C|C|A|R|C|I|R|C|A|C|C|I|C|I|A|C|
+|Prezes|I|I|R|R|R|R|I|C|A|A|A|R|A|A|A|A|A|R|A|
+|HR|I|I|I|I|I|I|I|A|R|I|I|I|I|I|I|I|I|I|I|
+|Marketing|I|I|I|I|I|I|I|C|I|C|R|C|R|R|C|I|C|I|I|
+|Wdrożeniowcy|I|I|I|I|I|I|I|C|I|I|C|C|I|A|R|R|I|I|I|
+|Sprzedaż|I|I|I|I|I|I|I|C|I|C|I|C|I|I|I|I|R|C|C|
 |Customer service|I|I|I|I|I|I|I|C|I|I|I|C|C|I|I|I|I|I|R
 ## Plan komunikacji - Karolina
 * Inwestorzy - konsultacja, informowanie
